@@ -64,10 +64,14 @@ Para ejecutar el proyecto localmente:
 git clone https://github.com/melissakadash28-cloud/Telecom-X_Alura.git
 cd Telecom-X_Alura
 pip install -r requirements.txt
+
+
 ---
 📜 Licencia
 Este proyecto está bajo la licencia MIT.
 Puedes usarlo, modificarlo y distribuirlo libremente, siempre que se mantenga la atribución original.
+
+
 ---
 👩‍💻 Autora
 Melissa Rodríguez
