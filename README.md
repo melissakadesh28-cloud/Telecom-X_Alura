@@ -76,7 +76,7 @@ Puedes usarlo, modificarlo y distribuirlo libremente, siempre que se mantenga la
 
 ## 👩‍💻 Autora
 Melissa Rodríguez  
-Este proyecto forma parte de su portafolio técnico en ciencia de datos.
+Este proyecto forma parte del portafolio técnico en ciencia de datos.
 
 
 
