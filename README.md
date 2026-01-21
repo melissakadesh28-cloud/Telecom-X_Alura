@@ -43,13 +43,10 @@ El archivo [`MR_TELECOMX.ipynb`](MR_TELECOMX.ipynb) contiene:
 ---
 
 ## 🎯 Demostración de Resultados
-Ejemplos de visualizaciones generadas:
 
 - 📌 **Matriz de correlación**: muestra relaciones entre cargos mensuales, servicios y churn  
 - 📌 **Boxplots**: comparan distribuciones entre clientes que se quedan y los que se van  
 - 📌 **Scatterplots**: revelan patrones entre variables numéricas y evasión  
-
-*(Puedes agregar capturas de pantalla aquí si lo deseas)*
 
 ---
 
@@ -67,3 +64,12 @@ Para ejecutar el proyecto localmente:
 git clone https://github.com/melissakadash28-cloud/Telecom-X_Alura.git
 cd Telecom-X_Alura
 pip install -r requirements.txt
+---
+📜 Licencia
+Este proyecto está bajo la licencia MIT.
+Puedes usarlo, modificarlo y distribuirlo libremente, siempre que se mantenga la atribución original.
+---
+👩‍💻 Autora
+Melissa Rodríguez
+Este proyecto forma parte de su portafolio técnico en ciencia de datos.
+
