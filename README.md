@@ -68,14 +68,15 @@ pip install -r requirements.txt
 
 ---
 
-#📜 Licencia
-Este proyecto está bajo la licencia MIT.
+## 📄 Licencia
+Este proyecto está bajo la licencia MIT.  
 Puedes usarlo, modificarlo y distribuirlo libremente, siempre que se mantenga la atribución original.
-
 
 ---
 
-#👩‍💻 Autora
-Melissa Rodríguez
+## 👩‍💻 Autora
+Melissa Rodríguez  
 Este proyecto forma parte de su portafolio técnico en ciencia de datos.
+
+
 
